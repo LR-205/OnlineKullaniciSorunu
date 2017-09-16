@@ -1,6 +1,11 @@
 # OnlineKullaniciSorunu
 OnlineKullaniciSorunu
-<?PHP
+
+
+Kodlar Buradan Başlıyor
+
+
+<?php
 ini_set("display_error",0);
 error_reporting(0);
 $Mysql_kullanici_adi = "root";
